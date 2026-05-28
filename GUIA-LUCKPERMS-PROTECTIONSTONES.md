@@ -223,3 +223,11 @@ Con una cuenta de cada rango prueba:
 ---
 
 Si quieres, te preparo una **segunda versión** de esta guía con política **estricta** (menos permisos por rango) o **survival-friendly** (más utilidades para default).
+
+# Despues de agregar el gui:
+https://builtbybit.com/resources/protectionstones-gui-modern-eng-and-esp.86926/
+
+Perms para pegar en LuckyPerms:
+```text
+commandprompter.use, deluxemenus.menu.ps_menu, servervariables.use, protectionstones.create, protectionstones.destroy, protectionstones.flags, protectionstones.hide, protectionstones.home, protectionstones.list, protectionstones.members, protectionstones.owners, protectionstones.sethome, protectionstones.unclaim, protectionstones.unhide, protectionstones.view
+```
